@@ -1,0 +1,9 @@
+.bundle
+db/*.mysql
+log/*.log
+*.log
+/tmp/
+/doc/
+*.swp
+*~
+.DS_Store
